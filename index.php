@@ -59,6 +59,9 @@
           background-color: rgb(106, 44, 44);
           border-radius: 20%;
           border: none;
+          align-items: center;
+          width: 33%;
+          height: 33%;
       }
   </style>
 
