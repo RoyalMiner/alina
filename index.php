@@ -57,7 +57,7 @@
       }
       div.fenster {
           text-align: center;
-          background-color: rgb(106, 44, 44);
+          background-color: rgb(1, 14, 51);
           border-radius: 20%;
           border: none;
           align-items: center;
