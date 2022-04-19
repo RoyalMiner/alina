@@ -13,7 +13,7 @@ if(!isset($_SESSION["username"])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>3></title>
+    <title><3</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
@@ -43,8 +43,6 @@ if(!isset($_SESSION["username"])){
 
     body {
         background-color: rgb(11, 0, 58);
-        height: 100%;
-        width: 100%;
     }
     h1 {
         font-size: 100px;
@@ -55,8 +53,8 @@ if(!isset($_SESSION["username"])){
     footer {
         background-color: black;
         color: white;
-        margin-top: 60px;
-        margin-bottom: 0;
+        padding: 60px;
+        padding-bottom: 0;
         align-items: center;
     }
 
