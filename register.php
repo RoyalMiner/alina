@@ -48,6 +48,6 @@
       <button type="submit" name="submit">Erstellen</button>
     </form>
     <br>
-    <a href="index.php">Hast du bereits einen Account?</a>
+    <a href="alina.php">Hast du bereits einen Account?</a>
   </body>
 </html>
