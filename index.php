@@ -61,6 +61,8 @@
           border-radius: 20%;
           border: none;
           align-items: center;
+          vertical-align: center;
+          horiz-align: center;
           width: 33%;
           height: 33%;
           margin: 10%;
