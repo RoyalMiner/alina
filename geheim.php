@@ -114,7 +114,7 @@ if(!isset($_SESSION["username"])){
     <img src="\img\Snapchat-2139598257.jpg" alt="Mountains" width="600" height="400">
 </div>
 
-
+<br>
 <div class="footerino">
 <button>
 <a href="logout.php">Ausloggen</a>
