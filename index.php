@@ -65,6 +65,13 @@
           height: 33%;
           margin: 10%;
       }
+
+      button {
+          color: #6a035f;
+          background-color: #bb00a5;
+          border: none;
+          border-radius: 3px;
+      }
   </style>
 
 
