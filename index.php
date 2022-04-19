@@ -72,6 +72,15 @@
           border: none;
           border-radius: 3px;
       }
+      form {
+          color: white;
+          background-color: black;
+          border: none;
+          border-radius: 3px;
+          padding: 2px;
+          margin: 2px;
+      }
+
   </style>
 
 
