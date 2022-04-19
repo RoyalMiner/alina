@@ -53,9 +53,12 @@ if(!isset($_SESSION["username"])){
     footer {
         background-color: black;
         color: white;
-        padding: 60px;
-        padding-bottom: 0;
         align-items: center;
+    }
+
+    div.footerino {
+        padding: 60px;
+        margin-bottom: 0;
     }
 
 
@@ -105,9 +108,13 @@ if(!isset($_SESSION["username"])){
     <img src="\img\Snapchat-2139598257.jpg" alt="Mountains" width="600" height="400">
 </div>
 
+
+<div class="footerino">
 <footer>
 <a href="logout.php">Ausloggen</a>
 </footer>
+</div>
+
 
 </body>
 
