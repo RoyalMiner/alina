@@ -72,7 +72,7 @@
           border: none;
           border-radius: 3px;
       }
-      form {
+      input {
           color: white;
           background-color: black;
           border: none;
