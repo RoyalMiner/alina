@@ -22,7 +22,7 @@
                     $stmt->bindParam(":token", $_GET["token"]);
                     $stmt->execute();
                     echo 'Das Passwort wurde geändert <br>
-                    <a href="alina.php"></a>Login</a>';
+                    <a href="geheim.php"></a>Login</a>';
                 } else {
                     echo "Die Passwörter stimmen nicht überein";
                 }

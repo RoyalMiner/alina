@@ -18,7 +18,7 @@
         if(password_verify($_POST["pw"], $row["PASSWORD"])){
           session_start();
           $_SESSION["username"] = $row["USERNAME"];
-          header("Location: alina.php");
+          header("Location: geheim.php");
         } else {
           echo "Der Login ist fehlgeschlagen";
         }
@@ -28,7 +28,7 @@
     }
      ?>
     <h1>Anmelden</h1>
-    <form action="alina.php" method="post">
+    <form action="geheim.php" method="post">
       <input type="text" name="username" placeholder="Username" required><br>
       <input type="password" name="pw" placeholder="Passwort" required><br>
       <button type="submit" name="submit">Einloggen</button>
