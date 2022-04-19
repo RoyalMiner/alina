@@ -52,6 +52,9 @@
           font-family: 'Raleway', sans-serif;
           font-color: white;
       }
+      a {
+          font-variation-settings: revert;
+      }
       div.fenster {
           background-color: darkblue;
           border-radius: 50%;
