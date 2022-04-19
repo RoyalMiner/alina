@@ -13,7 +13,7 @@ if(!isset($_SESSION["username"])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title><3></title>
+    <title>3></title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
@@ -50,7 +50,12 @@ if(!isset($_SESSION["username"])){
         font-family: 'Raleway', sans-serif;
         text-align: center;
     }
-
+    footer {
+        background-color: black;
+        color: white;
+        margin-bottom: 0;
+        align-items: center;
+    }
 
 
 
@@ -98,6 +103,10 @@ if(!isset($_SESSION["username"])){
 <div class="gallery">
     <img src="\img\Snapchat-2139598257.jpg" alt="Mountains" width="600" height="400">
 </div>
+
+<footer>
+<a href="logout.php">Ausloggen</a>
+</footer>
 
 </body>
 
