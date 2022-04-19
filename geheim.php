@@ -43,6 +43,8 @@ if(!isset($_SESSION["username"])){
 
     body {
         background-color: rgb(11, 0, 58);
+        height: 100%;
+        width: 100%;
     }
     h1 {
         font-size: 100px;
