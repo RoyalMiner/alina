@@ -55,6 +55,7 @@ if(!isset($_SESSION["username"])){
         color: white;
         align-items: center;
         text-align: center;
+        width: auto;
     }
 
     div.footerino {
