@@ -54,11 +54,16 @@ if(!isset($_SESSION["username"])){
         background-color: black;
         color: white;
         align-items: center;
+        text-align: center;
     }
 
     div.footerino {
         padding: 600px;
         margin-bottom: 0;
+    }
+    a {
+        color: white;
+        text-decoration: none;
     }
 
 
