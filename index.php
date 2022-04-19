@@ -56,7 +56,7 @@
           font-variation-settings: revert;
       }
       div.fenster {
-          background-color: darkblue;
+          background-color: rgb(106, 44, 44);
           border-radius: 80%;
           border: none;
       }
