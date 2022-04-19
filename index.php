@@ -33,8 +33,8 @@
 
     <h1>Anmelden</h1>
     <form action="index.php" method="post">
-      <input type="text" name="username" placeholder="Username" required><br>
-      <input type="password" name="pw" placeholder="Passwort" required><br>
+      <input type="text" name="username" placeholder="Username" required ><br>
+      <input type="password" name="pw" placeholder="Passwort" required ><br>
       <button type="submit" name="submit">Einloggen</button>
     </form>
     <br>
@@ -63,7 +63,7 @@
           align-items: center;
           width: 33%;
           height: 33%;
-          margin: 40%;
+          margin: 10%;
       }
   </style>
 
