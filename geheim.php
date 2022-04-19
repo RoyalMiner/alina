@@ -55,6 +55,7 @@ if(!isset($_SESSION["username"])){
     footer {
         background-color: black;
         color: white;
+        margin-top: 60px;
         margin-bottom: 0;
         align-items: center;
     }
