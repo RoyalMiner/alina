@@ -39,7 +39,7 @@
     </form>
     <br>
     <!-------- <a href="register.php">Noch keinen Account?</a><br> <!------->
-    <a href="passwordreset.php">Hast du dein Passwor vergessen?</a>
+    <a href="passwordreset.php">Hast du dein Passwort vergessen?</a>
 
     </div>
   <style>
@@ -53,9 +53,10 @@
           font-color: white;
       }
       a {
-          font-variation-settings: revert;
+          text-decoration: none;
       }
       div.fenster {
+          text-align: center;
           background-color: rgb(106, 44, 44);
           border-radius: 20%;
           border: none;
