@@ -36,5 +36,15 @@
     <br>
     <!-------- <a href="register.php">Noch keinen Account?</a><br> <!------->
     <a href="passwordreset.php">Hast du dein Passwor vergessen?</a>
+
+
+  <style>
+      h1 {
+          font-family: 'Raleway', sans-serif;
+      }
+  </style>
+
+
+
   </body>
 </html>
