@@ -57,7 +57,7 @@
       }
       div.fenster {
           background-color: darkblue;
-          border-radius: 50%;
+          border-radius: 80%;
           border: none;
       }
   </style>
