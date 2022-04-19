@@ -27,6 +27,10 @@
       }
     }
      ?>
+
+
+    <div class="fenster">
+
     <h1>Anmelden</h1>
     <form action="index.php" method="post">
       <input type="text" name="username" placeholder="Username" required><br>
@@ -37,10 +41,21 @@
     <!-------- <a href="register.php">Noch keinen Account?</a><br> <!------->
     <a href="passwordreset.php">Hast du dein Passwor vergessen?</a>
 
-
+    </div>
   <style>
-      h1 {
+      body {
+          background-color: black;
+      }
+
+
+      h1, p, a {
           font-family: 'Raleway', sans-serif;
+          font-color: white;
+      }
+      div.fenster {
+          background-color: darkblue;
+          border-radius: 50%;
+          border: none;
       }
   </style>
 
