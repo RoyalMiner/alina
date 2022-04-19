@@ -57,7 +57,7 @@ if(!isset($_SESSION["username"])){
     }
 
     div.footerino {
-        padding: 60px;
+        padding: 600px;
         margin-bottom: 0;
     }
 
