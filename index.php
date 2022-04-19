@@ -50,7 +50,7 @@
 
       h1, p, a {
           font-family: 'Raleway', sans-serif;
-          font-color: white;
+          color: white;
       }
       a {
           text-decoration: none;
