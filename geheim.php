@@ -60,7 +60,7 @@ if(!isset($_SESSION["username"])){
 
     div.footerino {
         padding: 50%;
-        margin-bottom: 0;
+        padding-bottom: 0;
     }
     a {
         color: white;
