@@ -68,7 +68,7 @@
 
       button {
           color: #6a035f;
-          background-color: #bb00a5;
+          background-color: #00ffeb;
           border: none;
           border-radius: 3px;
       }
