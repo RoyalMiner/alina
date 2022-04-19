@@ -50,7 +50,7 @@ if(!isset($_SESSION["username"])){
         font-family: 'Raleway', sans-serif;
         text-align: center;
     }
-    footer {
+    button {
         background-color: black;
         color: white;
         align-items: center;
@@ -116,9 +116,9 @@ if(!isset($_SESSION["username"])){
 
 
 <div class="footerino">
-<footer>
+<button>
 <a href="logout.php">Ausloggen</a>
-</footer>
+</button>
 </div>
 
 
