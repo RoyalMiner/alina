@@ -65,7 +65,6 @@
           horiz-align: center;
           width: 33%;
           height: 33%;
-          margin: 10%;
       }
 
       button {
