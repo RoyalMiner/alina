@@ -63,6 +63,7 @@
           align-items: center;
           width: 33%;
           height: 33%;
+          margin: 40%;
       }
   </style>
 
